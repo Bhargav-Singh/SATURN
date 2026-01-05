@@ -1,0 +1,12 @@
+name: saturn
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - fastapi
+  - uvicorn
+  - pytest
+  - pyjwt
+  - sqlalchemy
+  - pymysql
+  - alembic
